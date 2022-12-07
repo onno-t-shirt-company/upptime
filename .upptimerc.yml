@@ -4,9 +4,9 @@ repo: upptime
 sites:
   - name: ONNO Homepage
     url: https://onno.com
-  - name: ONNO Login
+  - name: ONNO Login Page
     url: https://onno.com/login
-  - name: ONNO Cart
+  - name: ONNO Cart Page
     url: https://onno.com/cart
   - name: ONNO Men's Bamboo T-Shirt
     url: https://onno.com/store/bamboo-t-shirt-men/
