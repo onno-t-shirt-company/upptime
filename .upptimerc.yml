@@ -2,8 +2,35 @@ owner: onno-t-shirt-company
 repo: upptime
 
 sites:
-  - name: ONNO
+  - name: ONNO Homepage
     url: https://onno.com
+  - name: ONNO Men's Bamboo T-Shirt
+  - url: https://onno.com/store/bamboo-t-shirt-men/
+  - name: ONNO Men's Bamboo Lyocell T-Shirt
+  - url: https://onno.com/store/bamboo-lyocell-t-shirts-men/
+  - name: ONNO Men's Hemp T-Shirt
+  - url: https://onno.com/store/hemp-t-shirt-men/
+  - name: ONNO Men's Organic Cotton T-Shirts
+  - url: https://onno.com/store/organic-cotton-t-shirts-men/
+  - name: ONNO Men's Pima Cotton T-Shirt
+  - url: https://onno.com/store/pima-cotton-t-shirts-men/
+  - name: ONNO Men's Long Sleeve Bamboo T-Shirt
+  - url: https://onno.com/store/long-sleeve-bamboo-t-shirt-men/
+  - name: ONNO Factories
+  - url: https://onno.com/factories.html
+  - name: ONNO Good T-Shirts for the World
+  - url: https://onno.com/good-t-shirts-for-the-world.html
+  - name: ONNO Women's Bamboo Lyocell T-Shirt
+  - url: https://onno.com/store/bamboo-lyocell-t-shirts-women/
+  - name: ONNO Women's Bamboo T-Shirt
+  - url: https://onno.com/store/bamboo-t-shirt-women/
+  - name: ONNO Women's Pima Cottom T-Shirt
+  - url: https://onno.com/store/pima-cotton-t-shirts-women/
+  - name: ONNO Women's Hemp T-Shirt
+  - url: https://onno.com/store/hemp-t-shirt-women/
+  - name: ONNO Women's Long Sleve Bamboo T-Shirt
+  - url: https://onno.com/store/bamboo-t-shirts-long-sleeve-women/
+
 
 status-website:
   cname: status.onno.com
