@@ -4,10 +4,10 @@
     "url": "https://onno.com",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 183,
@@ -16,6 +16,7 @@
     "timeMonth": 202,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2023-03-11": 1,
       "2022-12-16": 100
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://onno.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 510,
@@ -36,6 +37,7 @@
     "timeMonth": 526,
     "timeYear": 510,
     "dailyMinutesDown": {
+      "2023-03-11": 1,
       "2022-12-16": 99
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://onno.com/cart",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-cart-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 474,
@@ -56,6 +58,7 @@
     "timeMonth": 473,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2023-03-11": 1,
       "2022-12-16": 99
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://onno.com/store/bamboo-t-shirt-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-bamboo-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
@@ -75,17 +78,19 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 1
+    }
   },
   {
     "name": "ONNO Men's Bamboo Lyocell T-Shirt",
     "url": "https://onno.com/store/bamboo-lyocell-t-shirts-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-bamboo-lyocell-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
@@ -93,17 +98,19 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 1
+    }
   },
   {
     "name": "ONNO Men's Hemp T-Shirt",
     "url": "https://onno.com/store/hemp-t-shirt-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-hemp-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
@@ -111,17 +118,19 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 1
+    }
   },
   {
     "name": "ONNO Men's Organic Cotton T-Shirts",
     "url": "https://onno.com/store/organic-cotton-t-shirts-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-organic-cotton-t-shirts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 34,
@@ -129,16 +138,18 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 1
+    }
   },
   {
     "name": "ONNO Men's Pima Cotton T-Shirt",
     "url": "https://onno.com/store/pima-cotton-t-shirts-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-pima-cotton-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,16 +158,18 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 34,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Men's Long Sleeve Bamboo T-Shirt",
     "url": "https://onno.com/store/long-sleeve-bamboo-t-shirt-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-long-sleeve-bamboo-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -165,16 +178,18 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 35,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Factories",
     "url": "https://onno.com/factories.html",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-factories",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,16 +198,18 @@
     "timeWeek": 12,
     "timeMonth": 37,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Good T-Shirts for the World",
     "url": "https://onno.com/good-t-shirts-for-the-world.html",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-good-t-shirts-for-the-world",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -201,16 +218,18 @@
     "timeWeek": 21,
     "timeMonth": 71,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Women's Bamboo Lyocell T-Shirt",
     "url": "https://onno.com/store/bamboo-lyocell-t-shirts-women/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-women-s-bamboo-lyocell-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,16 +238,18 @@
     "timeWeek": 21,
     "timeMonth": 72,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Women's Bamboo T-Shirt",
     "url": "https://onno.com/store/bamboo-t-shirt-women/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-women-s-bamboo-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,16 +258,18 @@
     "timeWeek": 21,
     "timeMonth": 71,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Women's Pima Cottom T-Shirt",
     "url": "https://onno.com/store/pima-cotton-t-shirts-women/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-women-s-pima-cottom-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -255,16 +278,18 @@
     "timeWeek": 21,
     "timeMonth": 71,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Women's Hemp T-Shirt",
     "url": "https://onno.com/store/hemp-t-shirt-women/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-women-s-hemp-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -273,16 +298,18 @@
     "timeWeek": 21,
     "timeMonth": 71,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   },
   {
     "name": "ONNO Women's Long Sleve Bamboo T-Shirt",
     "url": "https://onno.com/store/bamboo-t-shirts-long-sleeve-women/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-women-s-long-sleve-bamboo-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -291,6 +318,8 @@
     "timeWeek": 21,
     "timeMonth": 71,
     "timeYear": 54,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-11": 0
+    }
   }
 ]
