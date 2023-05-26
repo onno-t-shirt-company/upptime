@@ -4,9 +4,9 @@
     "url": "https://onno.com",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 155,
     "timeYear": 183,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46,
       "2022-12-16": 100
     }
@@ -25,9 +26,9 @@
     "url": "https://onno.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -37,6 +38,7 @@
     "timeMonth": 521,
     "timeYear": 527,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46,
       "2022-12-16": 99
     }
@@ -46,9 +48,9 @@
     "url": "https://onno.com/cart",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-cart-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -58,6 +60,7 @@
     "timeMonth": 866,
     "timeYear": 567,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46,
       "2022-12-16": 99
     }
@@ -67,9 +70,9 @@
     "url": "https://onno.com/store/bamboo-t-shirt-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-bamboo-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -79,6 +82,7 @@
     "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46
     }
   },
@@ -87,9 +91,9 @@
     "url": "https://onno.com/store/bamboo-lyocell-t-shirts-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-bamboo-lyocell-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -99,6 +103,7 @@
     "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46
     }
   },
@@ -107,9 +112,9 @@
     "url": "https://onno.com/store/hemp-t-shirt-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-hemp-t-shirt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -119,6 +124,7 @@
     "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46
     }
   },
@@ -127,9 +133,9 @@
     "url": "https://onno.com/store/organic-cotton-t-shirts-men/",
     "icon": "https://icons.duckduckgo.com/ip3/onno.com.ico",
     "slug": "onno-men-s-organic-cotton-t-shirts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -139,6 +145,7 @@
     "timeMonth": 24,
     "timeYear": 33,
     "dailyMinutesDown": {
+      "2023-05-26": 0,
       "2023-03-11": 46
     }
   },
